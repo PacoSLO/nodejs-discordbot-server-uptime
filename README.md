@@ -11,7 +11,7 @@ You need Node.js and NPM on your machine. Then You can run the bot via the .bat 
 Shows System Uptime in Status Msg and in discord channel via !uptime command
 
 <img
-  src="https://github.com/PacoSLO/nodejs-discordbot-server-uptime/blob/main/uptime%20(1).png"
+  src="https://github.com/PacoSLO/nodejs-discordbot-server-uptime/blob/main/uptiime.png"
   alt="Alt text"
   title="Discord Uptime"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
